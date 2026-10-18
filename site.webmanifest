@@ -1,0 +1,15 @@
+{
+  "name": "Taxation Clinic",
+  "short_name": "Taxation Clinic",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F8F4E9",
+  "theme_color": "#173D32",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
