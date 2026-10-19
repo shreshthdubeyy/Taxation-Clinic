@@ -18,3 +18,9 @@
   .brand-map-header{padding:1.2rem 1.25rem}
   .brand-map-frame{height:260px}
 }
+
+/* Consistent service-card hierarchy across the homepage and service overview. */
+.services-grid .service-item h3{min-height:2.6em}
+.services-grid .service-item p{max-width:34ch}
+.services-grid .service-item .text-link{margin-top:.15rem}
+@media(max-width:420px){.services-grid .service-item h3{min-height:0}}
